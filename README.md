@@ -1,9 +1,9 @@
-<h1 align="center">HELLO! I am SAHIL PASALKAR</h1>
+<h1 align="center">HELLO! I am Sahil Pasalkar </h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
 - 🌱 I’m currently learning **RAG and VectorDatabase**
 
-- 👯 I’m looking to collaborate on **reinforcement learning project**
+-  I’m looking to collaborate on **reinforcement learning project**
 
 - 💬 Ask me about **Machine learing and deep learing**
 
