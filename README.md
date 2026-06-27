@@ -1,11 +1,11 @@
 <h1 align="center">HELLO! I am Sahil Pasalkar </h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
-- 🌱 I’m currently learning **RAG and VectorDatabase**
+- 🌱 I’m currently learning **RAG and VectorDatabases**
 
 -  I’m looking to collaborate on **reinforcement learning project**
 
-- 💬 Ask me about **Machine learing and deep learing**
+- 💬 Ask me about **Machine learing and deep learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
